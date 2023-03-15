@@ -4,7 +4,7 @@ Project made for managing time, projects, clients, and providing reports.
 
 ## Author
 
-Nenad Petković, Faculty of Technical Sciences in Novi Sad
+Nenad Petković, Faculty of Technical Sciences in Novi Sad.
 
 ## Mentor
 
